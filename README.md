@@ -12,12 +12,8 @@ Objective is to analyze the current job market trends for Data science.
 
 All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
-## Analysis:
-I wrote a blog[here](https:) covering all the findings of this anslysis,I recommend you to have a look at it to get more clear understanding.
-![Screenshot](images/Location.png)
+## Analysis Overview:
+I wrote a [blog](https:) covering all the findings of this anslysis,I strongly recommend you to have a look at it to get more clear understanding.
 
-![Screenshot](images/companies.png)
+![Screenshot](images/theme.png)
 
-![Screenshot](images/experience.png)
-
-![Screenshot](images/skills.png)
